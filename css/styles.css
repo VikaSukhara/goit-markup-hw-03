@@ -32,7 +32,7 @@ button {
   cursor: pointer;
 }
 
-img{
+img {
   display: block;
   max-width: 100%;
   height: auto;
@@ -44,9 +44,6 @@ img{
 .link {
   text-decoration: none;
 }
-
-
-
 
 .container {
   width: 1158px;
@@ -64,13 +61,12 @@ img{
 
 /* header */
 
-.head-container{
+.head-container {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-bottom: 1px solid #E7E9FC;
+  border-bottom: 1px solid #e7e9fc;
 }
-
 
 .logo {
   font-family: var(--second-font);
@@ -90,12 +86,11 @@ img{
   color: var(--first-text-color);
 }
 
-.nav-conteiner{
+.nav-conteiner {
   margin-left: 76px;
 }
 .header-list {
   display: flex;
-
 }
 
 .header-link {
@@ -161,9 +156,8 @@ img{
   letter-spacing: 0.02em;
   color: #ffffff;
   margin: 0 auto 48px;
-  width:496px;
+  width: 496px;
 }
-
 
 .hero-button {
   padding: 16px 32px;
@@ -197,7 +191,7 @@ img{
   overflow: hidden;
 }
 
-.about-section{
+.about-section {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -233,7 +227,7 @@ img{
 
 /* work */
 
-.work-section{
+.work-section {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -249,7 +243,6 @@ img{
 .work-list .item:last-child {
   margin-right: 0;
 }
-
 
 .work-title,
 .team-title {
@@ -283,12 +276,11 @@ img{
   /* margin-bottom: 32px; */
 }
 
-.team-section{
+.team-section {
   background-color: #f4f4fd;
   padding-bottom: 120px;
   padding-top: 120px;
 }
-
 
 .team-list {
   display: flex;
@@ -297,11 +289,10 @@ img{
 .team-item {
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
-
 }
 
-.team-text-wrap{
-  padding: 32px 0; 
+.team-text-wrap {
+  padding: 32px 0;
 }
 /* .img-icon {
   margin-bottom: 32px;
@@ -346,7 +337,7 @@ img{
 
 /* portfolio */
 
-.main-section{
+.main-section {
   padding-top: 96px;
   padding-bottom: 120px;
 }
@@ -358,7 +349,7 @@ img{
   justify-content: center;
 }
 
- .btn-list-item {
+.btn-list-item {
   margin-right: 24px;
 }
 .btn-list .btn-list-item:last-child {
@@ -398,12 +389,7 @@ img{
 
 .proposition-item {
   width: calc((100% - 48px) / 3);
-
 }
-
-
-
-
 
 .proposition-title {
   font-weight: 500;
